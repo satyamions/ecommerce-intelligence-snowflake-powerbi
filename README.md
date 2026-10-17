@@ -293,7 +293,7 @@ The Power BI report contains five main pages.
 
 ## 1. Executive Overview
 
-![Executive Overview](powerbi/01_executive_overview.png)
+![Executive Overview](powerbi/01_executive_overview_.png)
 
 Provides a high-level view of:
 

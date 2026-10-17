@@ -2,7 +2,7 @@
 
 End-to-end Snowflake, SQL and Power BI analytics project using the Olist Brazilian E-Commerce dataset.
 
-![Executive Overview](powerbi/01_executive_overview.png)
+![Executive Overview](powerbi/01_executive_overview_.png)
 
 ---
 
